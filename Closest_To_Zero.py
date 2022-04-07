@@ -1,5 +1,7 @@
-# Given a list of integers find the closest to zero.
-# If there is a tie, choose the positive value.
+"""
+Given a list of integers find the closest to zero.
+If there is a tie, choose the positive value.
+"""
 
 lst = [2, 74, 56, -8, 12, -40, -2, 70, -4, -66, -4]
 
